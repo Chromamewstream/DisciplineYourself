@@ -1,0 +1,10 @@
+
+was braucht meine webseite
+1) überschrift
+1.1) Spielauswahl
+2) frage -> was hast du gespielt
+3) inputfeld für den champ
+4) frage -> welche Lane hast du gespielt?
+5) chckboxen für jede lane
+6) frage -> spielmodus
+7) checkbox für spielmodus (ranked, normal, aram)
