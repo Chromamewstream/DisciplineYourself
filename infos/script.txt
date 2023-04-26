@@ -1,0 +1,23 @@
+
+Youtube video!
+Titel:
+	The Next New Thing! A Webside To Punish Yourself After Lossing A Game!
+
+Description:
+	Create a website with me which you visit after a lost game.
+	A way to punish yourself to get better so you don't have to visit this site anymore.
+ 	Writes ideas in the comments what I still have to do on the website.	
+	#Html #css #js #javascript #website #bootstrap #gaming #LeagueOfLegends #Doto #CsGo #WorldOfWarcraft #CallOfDuty #RockedLeague #Fortnite #Valorent #HerosOfTheStorm #Apex
+	
+
+Programming!
+
+
+Way to Go:
+	1 import bootstrap!
+	2 Überschrift "Punish Yourself".
+	3 Choose your Game.
+	4 [League of Legends, Counterstrike Go, Dota, Call Of Duty, Rocked League, Fortnite, Valorent, Apex Legends, Dota, Heros of the Sorm, World of Warcraft,]
+	5 Every Game gets an own Webside Design.
+	6 Get Icons for Every Game.
+	7 ...
