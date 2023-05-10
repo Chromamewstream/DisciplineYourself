@@ -3,11 +3,12 @@
     padding: 0;
 }
 
-body{
+body {
     height: 100vh;
     background-image: url(Background60.png);
     background-repeat: no-repeat;
     background-size: cover;
+    padding: 0px 120px;
 }
 
 .header {
@@ -18,7 +19,7 @@ body{
     text-shadow: 0 3px 10px red, 0 -3px 10px yellow;
 }
 
-.games{
+.games {
     margin: 1rem 0;
     background-color: transparent;
     display: flex;
@@ -30,7 +31,7 @@ body{
     margin-top: 3rem;
 }
 
-.game{
+.game {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -42,31 +43,54 @@ body{
     text-shadow: 2px 2px 10px black;
     text-align: center;
     font-size: 2rem;
-    
+
 }
-.explanation{
+
+a {
+    text-decoration: none;
+}
+
+.explanation {
     margin: 2rem;
     text-align: center;
-    font-size: 1.6rem;
+    font-size: 2rem;
+    color: rgb(22, 22, 22);
+    letter-spacing: 3px;
     font-family: fantasy;
     font-weight: 500;
 }
 
-.game-box, .game-box > p {
+
+.game-box,
+.game-box>p {
     background-color: rgb(56, 56, 56);
     border-radius: 10px;
 }
- .game-box{
+
+.game-box {
     border-radius: 10px;
     box-shadow: 5px 5px 10px black;
- }
+}
+
+.game:hover {
+    cursor: pointer;
+    width: 160px;
+    height: 110px;
+}
 
 @media screen and (max-width: 620px) {
     .header>p {
         font-size: 3rem;
     }
 
-    .game{
+
+    body{
+        padding: 0px 20px;
+    }
+
+
+
+    .game {
         width: 110px;
         height: 60px;
         margin: 0.6rem;
@@ -75,6 +99,21 @@ body{
         text-shadow: 2px 2px 10px black;
         text-align: center;
         font-size: 1.2rem;
-}
+    }
+
+
+    .game >p{
+        padding: 5px 1rem;
+    }
+
+    .explanation {
+        margin: 1rem;
+        text-align: center;
+        font-size: 1.4rem;
+        color: rgb(22, 22, 22);
+        letter-spacing: 2px;
+        font-family: fantasy;
+        font-weight: 500;
+    }
 
 }
