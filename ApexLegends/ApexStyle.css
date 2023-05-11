@@ -1,0 +1,52 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    display: grid;
+    align-items: center;
+    text-align: center;
+    background-color: gray;
+    background-image: url(./Logo70.png);
+    background-position: center;
+    height: 100vh;
+    background-size:contain;
+    background-repeat: no-repeat;
+    padding: 0 10%;
+}
+
+.header{
+    font-size: 4rem;
+}
+
+.card{
+
+    border: 1px solid black;
+
+}
+
+.label{
+    margin: 0 3rem 0 0;
+    font-size: 2rem;
+}
+
+input{
+    /* background-color: white; */
+
+    font-size: 1.5rem;
+}
+
+ .btn{
+
+    padding: 1rem 2rem;
+    border: 0 solid;
+    margin: 1rem 0;
+    border-radius: 10px;
+
+ }
+
+ #punishment{
+    font-size: 1.4rem;
+ }
