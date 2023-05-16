@@ -27,7 +27,6 @@ body {
     justify-content: center;
     align-content: center;
     text-align: center;
-
     margin-top: 3rem;
 }
 
@@ -82,7 +81,7 @@ a {
     }
 
 
-    body{
+    body {
         padding: 0px 20px;
     }
 
@@ -99,7 +98,7 @@ a {
     }
 
 
-    .game >p{
+    .game>p {
         padding: 5px 1rem;
     }
 
@@ -110,7 +109,7 @@ a {
         color: rgb(22, 22, 22);
         letter-spacing: 2px;
         font-weight: 900;
-        font-weight: 900;
+
     }
 
 }
